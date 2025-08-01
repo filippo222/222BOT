@@ -7,7 +7,7 @@
 
 
 
-### ⚠️ ANCORA IN SVILUPPO – **NON FATE NIENTE**
+### ⚠️ NON SONO TUTTI I PLUGIN DEL MIO PERCHÉ ALCUNI NON SONO ACCESSIBILI SCUSATE SE NON CI SONO
 
 <p align="center">
   <a href="https://wa.me/393201448716"><img title="Contatta su WhatsApp" src="https://img.shields.io/badge/Contatta_Filippo-black?style=for-the-badge&logo=whatsapp"></a>
